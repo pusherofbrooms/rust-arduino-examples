@@ -1,0 +1,8 @@
+[package]
+name = "busy-wait-fade"
+version = "0.1.0"
+authors = ["John Jorgensen <john@2gn.com>"]
+
+[dependencies]
+arduino = "0.1"
+
