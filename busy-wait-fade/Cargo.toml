@@ -5,4 +5,5 @@ authors = ["John Jorgensen <john@2gn.com>"]
 
 [dependencies]
 arduino = "0.1"
+avr_delay = { git = "https://github.com/pusherofbrooms/avr-delay" }
 
